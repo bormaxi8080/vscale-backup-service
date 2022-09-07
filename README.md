@@ -1,2 +1,3 @@
 # vscale-backup-service
-Node.js service to backup corporate structure on VScale (Selectel) servers
+
+Node.js service to backup corporate structure on VScale (Selectel) servers.
